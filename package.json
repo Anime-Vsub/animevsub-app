@@ -44,7 +44,7 @@
     "@capacitor/status-bar": "^6.0.0",
     "@capawesome/capacitor-screen-orientation": "^6.0.1",
     "@firebase/analytics": "^0.10.0",
-    "@firebase/app": "^0.10.6",
+    "@firebase/app": "^0.11.0",
     "@firebase/firestore": "^4.1.0",
     "@hugotomazi/capacitor-navigation-bar": "^4.0.1",
     "@iconify/vue": "^4.0.2",
