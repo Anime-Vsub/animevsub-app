@@ -61,7 +61,7 @@
     "animevsub-download-manager": "github:anime-vsub/animevsub-download-manager",
     "artplayer": "^4.6.2",
     "axios": "^1.6.0",
-    "cheerio": "1.0.0-rc.12",
+    "cheerio": "1.0.0",
     "client-ext-animevsub-helper": "^1.0.4",
     "cordova-plugin-screen-orientation": "^3.0.4",
     "dayjs": "^1.11.7",
